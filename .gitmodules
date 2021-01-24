@@ -1,0 +1,9 @@
+[submodule "go-server"]
+	path = go-server
+	url = https://github.com/J-A-Development-Team/go-server
+[submodule "go-desktop-client"]
+	path = go-desktop-client
+	url = https://github.com/J-A-Development-Team/go-desktop-client
+[submodule "go-flutter-client"]
+	path = go-flutter-client
+	url = https://github.com/J-A-Development-Team/go-flutter-client
